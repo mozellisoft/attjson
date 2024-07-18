@@ -1,5 +1,5 @@
 {
-	"clientVersion": "13.20.13560",
+	"clientVersion": "13.21.0000",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/mozellisoft/attjson/releases/download/V1.0/InsaneOT.zip",
+	"newClientUrl" : "https://github.com/mozellisoft/attjson/releases/download/V1.1/InsaneOT.zip",
 	"clientExecutable": "client.exe"
 }
